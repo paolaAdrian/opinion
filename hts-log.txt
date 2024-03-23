@@ -1,0 +1,16 @@
+HTTrack3.49-1+htsswf+htsjava launched on Fri, 22 Mar 2024 20:35:58 at https://www.opinion.com.bo/articulo/pais/luego-13-anos-pagina-publica-ultima-edicion-anuncia-cierre/20230629162216912164.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.opinion.com.bo/articulo/pais/luego-13-anos-pagina-publica-ultima-edicion-anuncia-cierre/20230629162216912164.html -O1 "C:\Users\villa\Desktop\Nueva carpeta\clon_opinion\Clon_opinon" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:36:19	Error: 	"Not Found" (404) at link https://www.opinion.com.bo/articulo/pais/luego-13-anos-pagina-publica-ultima-edicion-anuncia-cierre/GET (from https://www.opinion.com.bo/articulo/pais/luego-13-anos-pagina-publica-ultima-edicion-anuncia-cierre/20230629162216912164.html)
+20:36:28	Error: 	"Not Found" (404) at link https://www.opinion.com.bo/choice.js?tag_version=V3 (from https://www.opinion.com.bo/articulo/pais/luego-13-anos-pagina-publica-ultima-edicion-anuncia-cierre/20230629162216912164.html)
+20:36:34	Error: 	"Not Found" (404) at link https://www.opinion.com.bo/articulo/pais/luego-13-anos-pagina-publica-ultima-edicion-anuncia-cierre/robots.txt (from https://cdn.unblockia.com/h.js)
+20:36:34	Error: 	"Not Found" (404) at link https://www.opinion.com.bo/articulo/pais/luego-13-anos-pagina-publica-ultima-edicion-anuncia-cierre/window[_0x536a7c(0x19c (from https://cdn.unblockia.com/h.js)
+20:36:34	Error: 	"Not Found" (404) at link https://www.opinion.com.bo/articulo/pais/luego-13-anos-pagina-publica-ultima-edicion-anuncia-cierre/window[_0x40f6de(0x19c (from https://cdn.unblockia.com/h.js)
+
+HTTrack Website Copier/3.49-1 mirror complete in 36 seconds : 55 links scanned, 49 files written (3330154 bytes overall) [2393947 bytes received at 66498 bytes/sec], 1778466 bytes transferred using HTTP compression in 24 files, ratio 27%, 2.0 requests per connection
+(5 errors, 0 warnings, 0 messages)
